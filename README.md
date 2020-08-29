@@ -1,2 +1,2 @@
 # Coursera-MachineLearning
-Machine Learning Course given by Adrew Ng 
+Machine Learning Course given by Andrew Ng 
